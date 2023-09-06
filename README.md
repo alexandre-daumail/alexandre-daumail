@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Alexandre, and I'm on a journey to exploire the world of IT. I have a passion for web developpement even though it's new for me and that I have other projects at the same time.
+Hello! I'm Alexandre, and I'm on a journey to exploire the world of IT. I have a passion for web developpement.
 
 In my free time, you'll often find me either attempting to fix the sink or indulging in ways to escape from reality, but that's a tale for another time.
 
@@ -13,8 +13,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexandre
 
 ## My Projects
 
-Here are some of the projects I've been working on :
- - Refactoring of my past projects
+I'm actually working on refactoring my previous projects in order to be up to date with the skills that I have gained in my previous job. I worked for a year in Digimood, a digital marketing agency, as a web developper.
+We used to design and develop apps for the SEO and SEA Consultants. My focus today is to show my proficiency in React and Typescript because my old projects are outdated and very basic.
+
 
 ## Contributions
 
