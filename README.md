@@ -3,22 +3,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandre-daumail" alt="alexandre-daumail" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://alexandre-daumail.fr)
+- 🔭 I’m currently working on my **[portfolio](https://alexandre-daumail.fr)**,
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker**,
 
-- 🤝 I’m looking for help **finding a job**
+- 🤝 I’m looking for help **finding a job**,
 
-- 👨‍💻 All of my projects are available at [alexandre-daumail.fr/projects](https://alexandre-daumail.fr/projects)
+- 👨‍💻 Here are some of my **[projects](https://alexandre-daumail.fr/projects)** (work in progress),
 
-- 💬 Ask me about **Django Rest Framework, React and Typescript**
+- 💬 Ask me about : **Django Rest Framework, React and Typescript**,
 
-- 📫 How to reach me **alexandre.daumail@laposte.net**
+- 📫 How to reach me : **alexandre.daumail@laposte.net**,
 
-- 📄 Know about my experiences [https://www.zupimages.net/up/23/36/tama.jpg](https://www.zupimages.net/up/23/36/tama.jpg)
+- 📄 Know about my  **[experiences](https://www.zupimages.net/up/23/36/tama.jpg)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/alexandre-daumail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-daumail" height="30" width="40" /></a>
 </p>
 
