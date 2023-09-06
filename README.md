@@ -1,53 +1,26 @@
-# Welcome to Alexandre's GitHub Profile
+<h1 align="center"> Hello, I'm Alexandre Daumail 👋</h1>
+<h3 align="center">A passionate web dev from France</h3>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandre-daumail" alt="alexandre-daumail" /></a> </p>
 
-Hello! I'm Alexandre, and I'm on a journey to exploire the world of IT. I have a passion for web developpement.
+- 🔭 I’m currently working on [my portfolio](https://alexandre-daumail.fr)
 
-In my free time, you'll often find me either attempting to fix the sink or indulging in ways to escape from reality, but that's a tale for another time.
+- 🌱 I’m currently learning **Docker**
 
-I'm always eager to learn and grow, and I'm constantly seeking new challenges and opportunities to expand my horizons. Whether it's building a groundbreaking app, or becoming a recognized expert in my field, I'm driven by a relentless curiosity and a desire to make a positive impact.
+- 🤝 I’m looking for help **finding a job**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexandre-daumail) to join me on this exciting journey of exploration and discovery!
+- 👨‍💻 All of my projects are available at [alexandre-daumail.fr/projects](https://alexandre-daumail.fr/projects)
 
-I also have a [portfolio](https://www.alexandre-daumail.fr/) if you want to see some of my live projects (work in progress). 
+- 💬 Ask me about **Django Rest Framework, React and Typescript**
 
-## My Stacks
+- 📫 How to reach me **alexandre.daumail@laposte.net**
 
-### Backend
+- 📄 Know about my experiences [https://www.zupimages.net/up/23/36/tama.jpg](https://www.zupimages.net/up/23/36/tama.jpg)
 
-```text
-    Python, Django, Django REST Framework
-    PostgreSQL, MongoDB, RabbitMq, MySQL
-    Php, Symfony
-    Node,Sequelize
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alexandre-daumail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-daumail" height="30" width="40" /></a>
+</p>
 
-### Frontend
-
-```text
-    Javascript, 
-    React+Typescript, 
-    React Native, 
-    Tailwind CSS,
-    Bootstrap, ...
-```
-
-### Miscellanious skills
-
-```text
-    Docker, CI-CD, Test Driven Development, Jira
-```
-
-## My Projects
-
-I'm actually working on refactoring my previous projects in order to be up to date with the skills that I have gained in my previous job. I worked for a year in Digimood, a digital marketing agency, as a web developper.
-We used to design and develop apps for the SEO and SEA Consultants. My focus today is to show my proficiency in React and Typescript because my old projects are outdated and very basic.
-
-## Contributions
-
-I enjoy collaborating on open-source projects. If you have an interesting project or idea, feel free to reach out to me, and I'd be happy to contribute.
-
-## Thank You
-
-Thanks for visiting my GitHub profile! I'm always learning and working on exciting new projects, so stay tuned for updates. 😄
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
