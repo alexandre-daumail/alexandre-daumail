@@ -10,12 +10,39 @@ I'm always eager to learn and grow, and I'm constantly seeking new challenges an
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexandre-daumail) to join me on this exciting journey of exploration and discovery!
 
+I also have a [portfolio](https://www.alexandre-daumail.fr/) if you want to see some of my live projects (work in progress). 
+
+## My Stacks
+
+### Backend
+
+```text
+    Python, Django, Django REST Framework
+    PostgreSQL, MongoDB, RabbitMq, MySQL
+    Php, Symfony
+    Node,Sequelize
+```
+
+### Frontend
+
+```text
+    Javascript, 
+    React+Typescript, 
+    React Native, 
+    Tailwind CSS,
+    Bootstrap, ...
+```
+
+### Miscellanious skills
+
+```text
+    Docker, CI-CD, Test Driven Development, Jira
+```
 
 ## My Projects
 
 I'm actually working on refactoring my previous projects in order to be up to date with the skills that I have gained in my previous job. I worked for a year in Digimood, a digital marketing agency, as a web developper.
 We used to design and develop apps for the SEO and SEA Consultants. My focus today is to show my proficiency in React and Typescript because my old projects are outdated and very basic.
-
 
 ## Contributions
 
