@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Alexandre Daumail 👋</h1>
 <h3 align="center">A passionate web dev from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandre-daumail" alt="alexandre-daumail" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandre-daumail" alt="logos of github trophies" /></a> </p>
 
 - 🔭 I’m currently working on my **[portfolio](https://alexandre-daumail.fr)**,
 
