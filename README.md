@@ -13,9 +13,9 @@
 
 - 💬 Ask me about : **Django Rest Framework, React and Typescript**,
 
-- 📫 How to reach me : **alexandre.daumail@laposte.net**,
+- 📫 How to reach me : **contact@alexandre-daumail.fr**,
 
-- 📄 Know about my  **[experiences](https://www.zupimages.net/up/23/36/tama.jpg)**
+- 📄 Know about my  **[experiences](https://www.alexandre-daumail.fr/wp-content/uploads/2023/11/CV.jpg)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
