@@ -3,15 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandre-daumail" alt="logos of github trophies" /></a> </p>
 
-- 🔭 I’m currently working on my **[portfolio](https://alexandre-daumail.fr)**,
+- 🔭 I’m currently working on private projects,
 
-- 🌱 I’m currently learning **Docker**,
+- 🌱 I’m currently learning **Angular**,
 
 - 🤝 I’m looking for help **finding a job**,
-
-- 👨‍💻 Here are some of my **[projects](https://alexandre-daumail.fr/projects)** (work in progress),
-
-- 💬 Ask me about : **Django Rest Framework, React and Typescript**,
 
 - 📫 How to reach me : **contact@alexandre-daumail.fr**,
 
