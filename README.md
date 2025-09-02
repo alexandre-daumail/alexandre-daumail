@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help **finding a job**,
 
-- 📫 How to reach me : **contact@alexandre-daumail.fr**,
+- 📫 How to reach me : **alexandre.daumail@laposte.net**,
 
 - 📄 Know about my  **[experiences](https://www.alexandre-daumail.fr/wp-content/uploads/2023/11/CV.jpg)**
 
